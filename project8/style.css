@@ -1,0 +1,30 @@
+.big {
+    background: gray;
+    height: 400px;
+}
+.text {
+    font-size: 44px;
+    color: white;
+}
+.text-color {
+    color: blue;
+}
+.text-other {
+    color: red;
+    font-size: 44px;
+}
+.square {
+    background: orange;
+    width: 400px;
+    height: 400px;
+}
+.small {
+    width: 800px;
+    height: 200px;
+    background: darkblue;
+}
+.element {
+    color: white;
+    font-size: 44px;
+    background: gray;
+}
