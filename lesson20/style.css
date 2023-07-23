@@ -1,0 +1,14 @@
+header {
+    height: 60px;
+    background: orange;
+}
+blockquote {
+    background: wheat;
+}
+footer {
+    background: rgb(213, 21, 213);
+    height: 300px;
+}
+.text-white {
+    color: white;
+}
