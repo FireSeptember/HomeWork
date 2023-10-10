@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+
+.dotted {
+    border: 5px dotted green;
+}
+
+.dashed {
+    border: 5px dashed red;
+    border-right-color: blue;
+    border-left-color: blue;
+}
+
+.solid {
+    border: 5px solid gray;
+    border-radius: 25px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
