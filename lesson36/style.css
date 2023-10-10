@@ -1,0 +1,24 @@
+.window {
+    height: 600px;
+    background-color: gainsboro;
+    border: 1px solid black;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    overflow-y: scroll;
+}
+.card {
+    background-color: peru;
+    width: 300px;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 20px;
+    box-shadow: inset 0px 0px 20px 5px gray;
+    height: 200px;
+    padding: 15px;
+}
+.description {
+    font-size: 20px;
+}
+.title {
+    font-size: 36px;
+}
